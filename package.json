@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "project-and-task-management-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-rsiva/Project-Management-Tool.git"
+  },
+  "author": "Siva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-rsiva/Project-Management-Tool/issues"
+  },
+  "homepage": "https://github.com/dev-rsiva/Project-Management-Tool#readme",
+  "description": ""
+}
